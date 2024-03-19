@@ -1,2 +1,1 @@
-# amznrec
-Amazon Recommender System
+# Amazon Recommender System
